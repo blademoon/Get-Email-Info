@@ -5,7 +5,8 @@
 Небольшой скрипт упрощающий работу. Собирает необходимую для согласования заявки информацию непосредственно с сервера Microsoft Echange 2010.
 
 ## Минимальные требования
-1. Наличие модуля Exchange PowerShell и Microsoft Active Directory. 
+1. Microsoft Powershell 5.1
+2. Модули Exchange и Microsoft Active Directory. 
 
 ## Как использовать
 Необходимо произвести настройки в самом скрипте:    
